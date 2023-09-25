@@ -1,3 +1,5 @@
+# PARENT SIMULATOR
+
 This app simulates when your parental unit is really mad at you.
 
 You inset/type your name, middle names and last name.
