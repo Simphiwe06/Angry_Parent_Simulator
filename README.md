@@ -1,4 +1,4 @@
-#PARENT SIMULATOR
+## PARENT SIMULATOR
 
 This app simulates when your parental unit is really mad at you.
 
